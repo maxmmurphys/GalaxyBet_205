@@ -36,8 +36,8 @@ const LogIn = ({ Data, setData }) => {
   return (
     <>
       <Helmet>
-        <title>SoftGalaxy | LogIn</title>
-        <meta name="description" content="SoftGalaxy | LogIn" />
+        <title>GalaxyGameFi | LogIn</title>
+        <meta name="description" content="GalaxyGameFi | LogIn" />
       </Helmet>
       <section id="Login" className="pt-0 pt-lg-1 pb-4">
         <div className="container">

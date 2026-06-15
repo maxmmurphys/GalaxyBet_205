@@ -143,8 +143,8 @@ const Staking = () => {
   return (
     <>
       <Helmet>
-        <title>SoftGalaxy | Staking</title>
-        <meta name="description" content="Dashboard staking page for SoftGalaxy" />
+        <title>GalaxyGameFi | Staking</title>
+        <meta name="description" content="Dashboard staking page for GalaxyGameFi" />
       </Helmet>
 
       <section id="stakingDashboard" className="mt-3 mb-5">

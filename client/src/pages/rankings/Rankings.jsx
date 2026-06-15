@@ -70,8 +70,8 @@ const Trending = ({ Data }) => {
   return (
     <>
       <Helmet>
-        <title>SoftGalaxy | Rankings</title>
-        <meta name="description" content="SoftGalaxy | Rankings" />
+        <title>GalaxyGameFi | Rankings</title>
+        <meta name="description" content="GalaxyGameFi | Rankings" />
       </Helmet>
       <section id="rankings">
         <div className="container mt-4 mb-5 mt-md-5 pt-lg-3">

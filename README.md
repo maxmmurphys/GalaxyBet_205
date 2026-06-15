@@ -1,15 +1,15 @@
-﻿# SoftGalaxyBet
+﻿# GalaxyGameFiBet
 
 
 **Decentralized Gaming World** — a Web3 gaming, staking, and affiliate platform powered by the **BET** token.
 
-![SoftGalaxy platform](./client/public/images/galaxy/main.jpg)
+![GalaxyGameFi platform](./client/public/images/galaxy/main.jpg)
 
 ---
 
 ## How it works
 
-SoftGalaxyBet runs on a single value loop:
+GalaxyGameFiBet runs on a single value loop:
 
 **Stake → Play → Refer → Claim**
 
@@ -55,4 +55,4 @@ npm start
 
 ---
 
-Copyright © 2025 SoftGalaxyBet
+Copyright © 2025 GalaxyGameFiBet

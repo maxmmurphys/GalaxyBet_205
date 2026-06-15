@@ -17,7 +17,7 @@ import { AiOutlineBarChart, AiOutlineHistory } from "react-icons/ai";
 const SomleNavbar = ({ rowData }) => {
   const [menuNav, setMenuNav] = useState(false);
   const Data = {
-    navIcon: "/images/softgalaxy.svg",
+    navIcon: "/images/GalaxyGameFi.svg",
     navLink: [
       { name: "Home", icon: BiSolidCastle, link: "/home" },
       { name: "Account", icon: FaRegCircleUser, link: "/account" },
@@ -64,9 +64,9 @@ const SomleNavbar = ({ rowData }) => {
           className="d-flex justify-content-center align-items-center gap-2 text-decoration-none"
           to="/home"
         >
-          <img src={Data.navIcon} alt="SoftGalaxy icon" width="25px" />
+          <img src={Data.navIcon} alt="GalaxyGameFi icon" width="25px" />
           <span className="F1">
-            <span className="lemon">SOFT</span>GALAXY
+            <span className="lemon">Galaxy</span>GameFi
           </span>
         </Link>
         <HiMenuAlt3 className="IoMenu" onClick={HandelMenu} />
@@ -139,7 +139,7 @@ const SomleNavbar = ({ rowData }) => {
         <hr />
         <div className="d-flex justify-content-center mb-4">
           <p className="F3">
-            © 2024 SoftGalaxy. All Right Reserved by
+            © 2026 GalaxyGameFi. All Right Reserved by
             <a href="https://ahmedabdalalim.pages.dev" target="_blank">
               <img
                 src="https://raw.githubusercontent.com/ahmed-abd-alalim/ahmed-abd-alalim/main/assets/3A.png"

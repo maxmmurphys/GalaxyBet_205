@@ -11,7 +11,7 @@ import { FaRegCircleUser } from "react-icons/fa6";
 import { FiSearch } from "react-icons/fi";
 
 const Data = {
-  navIcon: "/images/softgalaxy.svg",
+  navIcon: "/images/GalaxyGameFi.svg",
   navLink: [
     { name: "Home", link: "/home" },
     { name: "Marketplace", link: "/nfts" },
@@ -93,9 +93,9 @@ const LargNavbar = ({ rowData, setData }) => {
           className="nav-prand d-flex justify-content-center align-items-center gap-2 text-decoration-none"
           to="/home"
         >
-          <img src={Data.navIcon} alt="SoftGalaxy icon" width="25px" />
+          <img src={Data.navIcon} alt="GalaxyGameFi icon" width="25px" />
           <span className="F1">
-            <span className="lemon">SOFT</span>GALAXY
+            <span className="lemon">Galaxy</span>GameFi
           </span>
         </Link>
 

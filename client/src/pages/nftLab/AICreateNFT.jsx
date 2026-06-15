@@ -46,14 +46,14 @@ const AICreateNFT = ({ Data }) => {
     if (!imageUrl) return;
     const a = document.createElement("a");
     a.href = imageUrl;
-    a.download = "softgalaxy-ai-nft.png";
+    a.download = "GalaxyGameFi-ai-nft.png";
     a.click();
   };
 
   return (
     <>
       <Helmet>
-        <title>SoftGalaxy | AI Create NFT</title>
+        <title>GalaxyGameFi | AI Create NFT</title>
         <meta name="description" content="Create NFT with AI by inputting sentences" />
       </Helmet>
 
